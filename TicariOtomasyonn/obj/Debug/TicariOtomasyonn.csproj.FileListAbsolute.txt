@@ -1,0 +1,11 @@
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\bin\Debug\TicariOtomasyonn.exe.config
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\bin\Debug\TicariOtomasyonn.exe
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\bin\Debug\TicariOtomasyonn.pdb
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.csproj.AssemblyReference.cache
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.Properties.Resources.resources
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.csproj.GenerateResource.cache
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.csproj.CoreCompileInputs.cache
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.exe
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.pdb
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.FrmAdminGiris.resources
+C:\Users\DİLARA KARACA\Source\Repos\TicariOtomasyonn\TicariOtomasyonn\obj\Debug\TicariOtomasyonn.FrmAnaSayfa2.resources
